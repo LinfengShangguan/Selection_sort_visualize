@@ -1,5 +1,9 @@
 #Selection Sort
 
+##Hunggingface Link
+
+https://huggingface.co/spaces/PrideAndPrejudice/selection-sort-visualize
+
 ##Screenshot of test   
 ![alt text](image-1.png)
 Input unsorted, several duplicate array, works fine
@@ -117,5 +121,7 @@ A dedicated block displays the pseudo-code and highlights the current line.
 Three additional text boxes track the variables i, j, and min so users can observe how the indices evolve throughout the process.
 
 
+
 Author: Linfeng Shangguan
+
 Course: CISC-121 (Fall 2025)
