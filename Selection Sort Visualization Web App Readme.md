@@ -1,5 +1,9 @@
 #Selection Sort
 
+##Github Repo Link
+
+https://github.com/LinfengShangguan/Selection_sort_visualize/tree/main
+
 ##Hunggingface Link
 
 https://huggingface.co/spaces/PrideAndPrejudice/selection-sort-visualize
@@ -125,3 +129,4 @@ Three additional text boxes track the variables i, j, and min so users can obser
 Author: Linfeng Shangguan
 
 Course: CISC-121 (Fall 2025)
+
